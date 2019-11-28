@@ -1,6 +1,5 @@
 def sendmes(m):
-    return requests.get('http://0s.mfygs.orswyzlhojqw2ltpojtq.cmle.ru/' + 
-                 'bot592804892:AAGPnvbvCRRlMv0AuyD_F0THfk7UMBtgU64/sendMessage?chat_id=-1001362959453&text=' + m + '&parse_mode=Markdown').content
+    return requests.get('
 import json
 import requests
 import time
